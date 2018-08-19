@@ -9,7 +9,7 @@ Add seperate folders for
 3. Feature Extraction
 
 Name syntax: *filename_initials*
-            **Ex.** imsegfmm_vd.mlx
+**Ex.** imsegfmm_vd.mlx
               
 
 Feel free to branch. 
